@@ -1,0 +1,3 @@
+[submodule "modules/nodejs_docker-compose-submodule"]
+	path = modules/nodejs_docker-compose-submodule
+	url = git@github.com:ZhuChara2004/nodejs_docker-compose-submodule.git
